@@ -94,6 +94,8 @@ public class QuickUnionPathCompressionUF {
     			          Integer nElements = scanner.nextInt();
     			          System.out.print("Enter a m:\t");
     			          Integer mTimestamp = scanner.nextInt(); 
+    			          
+    			          //wow!
 
     	
 //    	
